@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yudaotor.github.io/lyrimuse/sitemap.xml
